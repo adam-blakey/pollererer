@@ -6,7 +6,7 @@
   "license": "ISC",
   "dependencies": {
     "ansi-colors": "3.2.3",
-    "gulp": "4.0.0",
+    "gulp": "5.0.1",
     "gulp-rename": "1.4.0",
     "yargs": "12.0.5"
   },
