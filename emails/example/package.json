@@ -8,7 +8,7 @@
     "ansi-colors": "3.2.3",
     "gulp": "5.0.1",
     "gulp-rename": "1.4.0",
-    "yargs": "12.0.5"
+    "yargs": "18.2.0"
   },
   "devDependencies": {
     "gulp-minifier": "^3.5.0",
