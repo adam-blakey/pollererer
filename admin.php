@@ -30,6 +30,12 @@
                       <?=$title;?>
                     </h2>
                   </div>
+                  <div class="col-auto ms-auto d-print-none">
+                    <div class="btn-list">
+                      <a href="./api/v1/export.php" class="btn btn-primary">Export data</a>
+                      <a href="./api/v1/export.php?anonymise=1" class="btn">Export anonymised data</a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>   
