@@ -31,4 +31,5 @@ $config = array(
 	"assume_attending"       => true,
 	"email_before_rehearsal" => 1.5 * 60 * 60,
 	"email_before_concert"   => 5   * 60 * 60,
+	"maintenance_mode"        => false,
 );
