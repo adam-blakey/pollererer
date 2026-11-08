@@ -113,7 +113,8 @@ $config = array(
 	"email_pdf"       => array(1, 3),
 	"admin_email"     => "admin@pollererer.com",
 	"logo_url"        => "https://pollererer.com/uploads/logo.png",
-	"group_name"      => "The Musical Pollererers"
+	"group_name"      => "The Musical Pollererers",
+	"maintenance_mode" => false // true: all pages/API/cron/emails stop with a 503
 );
 
 ?>
